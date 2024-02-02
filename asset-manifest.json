@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gif-Meme-Generator/static/css/main.86501e16.css",
+    "main.js": "/Gif-Meme-Generator/static/js/main.fc9486d9.js",
+    "index.html": "/Gif-Meme-Generator/index.html",
+    "main.86501e16.css.map": "/Gif-Meme-Generator/static/css/main.86501e16.css.map",
+    "main.fc9486d9.js.map": "/Gif-Meme-Generator/static/js/main.fc9486d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86501e16.css",
+    "static/js/main.fc9486d9.js"
+  ]
+}
